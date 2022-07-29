@@ -8,7 +8,6 @@ he should turn the wheel clockwise and if the stimulus was equal on both sides h
 stimulus move on the screen as he moves the wheel and his goal is to bring the high contrast visual stimulus to the screen in the center. 
 Time bins for all measurements are 10ms, starting 500ms before stimulus onset.
 ## Results
-<br/> The mouse took a long time (>0.7sec) when his feedback type in the previous trial were 57% "No Reward". while the mouse took a short time(<0.7sec) when his feedback 
-type in the previous trials were 90% "Reward"
+<br/> Our analysis have shown that the mouse took a long time (>0.7sec) when his feedback type in the previous trial were 57% "No Reward". while the mouse took a short time(<0.7sec) when his feedback type in the previous trials were 90% "Reward"
 ## Limitations and speculations
 <br/> We used only one session for one mouse which resulted in little and insufficient data.
